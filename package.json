@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Argi Avetisyan",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/ArgishtiAvetis/first-npm-package.git"
+  },
   "license": "ISC"
 }
