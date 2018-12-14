@@ -1,0 +1,11 @@
+{
+  "name": "argi-first-lib",
+  "version": "1.0.1",
+  "description": "Argi's first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
